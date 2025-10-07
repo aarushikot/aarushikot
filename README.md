@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://leetcode.com/u/aarushi231994/">
+    <img src="https://leetcard.jacoblin.cool/aarushi231994?theme=light&font=Arial&extension=activity" alt="LeetCode Stats" />
+  </a>
+</p>
+
 # 👋 Hi, I’m Aarushi Kotwani  
 **Data Scientist | Machine Learning Enthusiast | Data Engineer | Cloud & Analytics Specialist**
 
