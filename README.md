@@ -1,8 +1,3 @@
-<p align="center">
-  <a href="https://leetcode.com/u/aarushi231994/">
-    
-  </a>
-</p>
 # 👋 Hi, I’m Aarushi Kotwani  
 **Data Scientist | Machine Learning Enthusiast | Data Engineer | Cloud & Analytics Specialist**
 
