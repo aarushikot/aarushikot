@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://leetcode.com/u/aarushi231994/">
-    <img src="https://leetcard.jacoblin.cool/aarushi231994?theme=light&extension=activity" />
+    
   </a>
 </p>
 # 👋 Hi, I’m Aarushi Kotwani  
