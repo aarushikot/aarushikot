@@ -33,7 +33,7 @@ I'm a Seattle-based data professional with a strong foundation in **data science
 - Designed Tableau dashboards to visualize emission progress and net-zero targets
 
 ### 🔹 **Seattle University – Data Analyst Intern**  
-*June 2024 – June 2025*  
+*June 2024 – June 2025, Seattle, WA*  
 - Conducted in-depth analysis on multi-year financial data using SQL and Python  
 - Automated BI workflows with Power BI, reducing report generation time by 20%  
 - Built linear regression models to forecast 2025 spend patterns
