@@ -38,8 +38,8 @@ I'm a Seattle-based data professional with a strong foundation in **data science
 - Automated BI workflows with Power BI, reducing report generation time by 20%  
 - Built linear regression models to forecast 2025 spend patterns
 
-### 🔹 **Genpact – Data Scientist**  
-*April 2022 – Aug 2023, Gurugram, India*  
+### 🔹 **Freelancer – Data Analyst**  
+*April 2022 – Aug 2023, India*  
 - Automated data validation using MySQL triggers and Python scripts  
 - Built NLP models for sentiment analysis on 100,000+ customer reviews  
 - Reduced manual data processing errors by 30% and boosted revenue by 28%
