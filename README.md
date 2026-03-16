@@ -40,9 +40,9 @@ I'm a Seattle-based data professional with a strong foundation in **data science
 
 ### 🔹 **Freelancer – Data Analyst**  
 *April 2022 – Aug 2023, India*  
-- Automated data validation using MySQL triggers and Python scripts  
-- Built NLP models for sentiment analysis on 100,000+ customer reviews  
-- Reduced manual data processing errors by 30% and boosted revenue by 28%
+- Analyzed customer and operational datasets using Python (pandas, NumPy), SQL, and Excel for data cleaning, transforma- tion, and exploratory analysis supporting business reporting.
+- Designed Tableau and Power BI dashboards to visualize key metrics, uncover patterns, and streamline decision-making, reducing manual effort.
+- Implemented data validation checks and quality controls to maintain integrity across client projects
 
 ---
 
